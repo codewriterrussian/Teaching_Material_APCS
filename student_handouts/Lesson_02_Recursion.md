@@ -213,7 +213,7 @@ print(total(5))
 
 ### Ex.2 階乘
 
-![ChatGPT Image May 29 2026 from Material Maker (1).png](../assets/images/notion_exports/08674e52-55dd-4f32-b6db-3091182e39e0_ExportBlock-d4a36259-0d41-481f-bb48-3510ba14126f/ChatGPT_Image_May_29_2026_from_Material_Maker_(1).png)
+![ChatGPT Image May 29 2026 from Material Maker (1).png](../assets/images/notion_exports/08674e52-55dd-4f32-b6db-3091182e39e0_ExportBlock-d4a36259-0d41-481f-bb48-3510ba14126f/ChatGPT_Image_May_29_2026_from_Material_Maker_%281%29.png)
 
 階乘的定義：
 
@@ -306,7 +306,7 @@ print(fast_power(2, 5))
 
 ### Ex.4 費氏數列 Fibonacci Numbers
 
-![ChatGPT Image May 29 2026 from Material Maker (2).png](../assets/images/notion_exports/08674e52-55dd-4f32-b6db-3091182e39e0_ExportBlock-d4a36259-0d41-481f-bb48-3510ba14126f/ChatGPT_Image_May_29_2026_from_Material_Maker_(2).png)
+![ChatGPT Image May 29 2026 from Material Maker (2).png](../assets/images/notion_exports/08674e52-55dd-4f32-b6db-3091182e39e0_ExportBlock-d4a36259-0d41-481f-bb48-3510ba14126f/ChatGPT_Image_May_29_2026_from_Material_Maker_%282%29.png)
 
 費氏數列定義：
 
@@ -688,7 +688,7 @@ Go
 
 ### 題目 3：return 的順序
 
-![ChatGPT Image May 29 2026 from Material Maker (3).png](../assets/images/notion_exports/08674e52-55dd-4f32-b6db-3091182e39e0_ExportBlock-d4a36259-0d41-481f-bb48-3510ba14126f/ChatGPT_Image_May_29_2026_from_Material_Maker_(3).png)
+![ChatGPT Image May 29 2026 from Material Maker (3).png](../assets/images/notion_exports/08674e52-55dd-4f32-b6db-3091182e39e0_ExportBlock-d4a36259-0d41-481f-bb48-3510ba14126f/ChatGPT_Image_May_29_2026_from_Material_Maker_%283%29.png)
 
 ```python
 def f(n):
@@ -819,7 +819,7 @@ def power(x, n):
 
 ## Section XI. ZeroJudge e357 遞迴函數練習
 
-![ChatGPT Image May 29 2026 (2).png](../assets/images/notion_exports/08674e52-55dd-4f32-b6db-3091182e39e0_ExportBlock-d4a36259-0d41-481f-bb48-3510ba14126f/ChatGPT_Image_May_29_2026_(2).png)
+![ChatGPT Image May 29 2026 (2).png](../assets/images/notion_exports/08674e52-55dd-4f32-b6db-3091182e39e0_ExportBlock-d4a36259-0d41-481f-bb48-3510ba14126f/ChatGPT_Image_May_29_2026_%282%29.png)
 
 ### 題目說明
 

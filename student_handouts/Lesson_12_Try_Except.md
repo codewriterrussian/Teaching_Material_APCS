@@ -181,7 +181,7 @@ except：錯了怎麼辦
 
 ### 3. 基本範例：輸入整數後加 1
 
-![ChatGPT Image May 29 2026 from Try Except (1).png](../assets/images/notion_exports/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/ChatGPT_Image_May_29_2026_from_Try_Except_(1).png)
+![ChatGPT Image May 29 2026 from Try Except (1).png](../assets/images/notion_exports/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/ChatGPT_Image_May_29_2026_from_Try_Except_%281%29.png)
 
 ```python
 try:
@@ -261,7 +261,7 @@ int('hello')    # ValueError
 
 ### 5. 常見錯誤類別
 
-![ChatGPT Image May 29 2026 from Try Except (2).png](../assets/images/notion_exports/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/ChatGPT_Image_May_29_2026_from_Try_Except_(2).png)
+![ChatGPT Image May 29 2026 from Try Except (2).png](../assets/images/notion_exports/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/ChatGPT_Image_May_29_2026_from_Try_Except_%282%29.png)
 
 | 錯誤類別 | 說明 | 常見例子 |
 | --- | --- | --- |

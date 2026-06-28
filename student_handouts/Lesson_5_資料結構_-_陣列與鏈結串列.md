@@ -46,7 +46,7 @@
 資料結構 Data Structure 是一種儲存資料的方法。
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image.png" alt="image.png" width="650">
+  <img src="images/a805d184-b067-48e5-9ddb-a852ca2193e6_ExportBlock-4ad2e528-a586-4a79-84e2-91081722bc81/image.png" alt="image.png" width="650">
 </p>
 
 它會影響程式執行時的效率。
@@ -134,7 +134,7 @@ arr = [10, 20, 30, 40, 50]
 Python 的 index 從 0 開始。
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image_1.png" alt="image.png" width="650">
+  <img src="images/a805d184-b067-48e5-9ddb-a852ca2193e6_ExportBlock-4ad2e528-a586-4a79-84e2-91081722bc81/image_1.png" alt="image.png" width="650">
 </p>
 
 例如：
@@ -422,7 +422,7 @@ O(n)
 ## 9. Array 小結
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image_2.png" alt="image.png" width="650">
+  <img src="images/a805d184-b067-48e5-9ddb-a852ca2193e6_ExportBlock-4ad2e528-a586-4a79-84e2-91081722bc81/image_2.png" alt="image.png" width="650">
 </p>
 
 | 操作 | 時間複雜度 | 說明 |
@@ -441,7 +441,7 @@ O(n)
 ## 1. 什麼是 Linked List？
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image_3.png" alt="image.png" width="650">
+  <img src="images/a805d184-b067-48e5-9ddb-a852ca2193e6_ExportBlock-4ad2e528-a586-4a79-84e2-91081722bc81/image_3.png" alt="image.png" width="650">
 </p>
 
 鏈結串列 Linked List 是另一種儲存資料的方法。
@@ -537,7 +537,7 @@ O(n)
 ## 4. Linked List Traversal：O(n)
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image_4.png" alt="image.png" width="650">
+  <img src="images/a805d184-b067-48e5-9ddb-a852ca2193e6_ExportBlock-4ad2e528-a586-4a79-84e2-91081722bc81/image_4.png" alt="image.png" width="650">
 </p>
 
 Traversal 是走訪整個 Linked List。
@@ -656,7 +656,7 @@ O(n)
 ## 8. Linked List Insert：O(n)
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image_5.png" alt="image.png" width="650">
+  <img src="images/a805d184-b067-48e5-9ddb-a852ca2193e6_ExportBlock-4ad2e528-a586-4a79-84e2-91081722bc81/image_5.png" alt="image.png" width="650">
 </p>
 
 插入節點時，要先找到插入位置。
@@ -713,7 +713,7 @@ O(1)
 ## 9. Linked List Remove：O(n)
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image_6.png" alt="image.png" width="650">
+  <img src="images/a805d184-b067-48e5-9ddb-a852ca2193e6_ExportBlock-4ad2e528-a586-4a79-84e2-91081722bc81/image_6.png" alt="image.png" width="650">
 </p>
 
 刪除節點時，也通常要先找到要刪除的節點。
@@ -839,7 +839,7 @@ O(n)
 # Section IV. Array 和 Linked List 比較
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image_7.png" alt="image.png" width="650">
+  <img src="images/a805d184-b067-48e5-9ddb-a852ca2193e6_ExportBlock-4ad2e528-a586-4a79-84e2-91081722bc81/image_7.png" alt="image.png" width="650">
 </p>
 
 ## 1. 核心差異
@@ -860,7 +860,7 @@ O(n)
 ## 2. 為什麼 Array 取值比較快？
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image_8.png" alt="image.png" width="650">
+  <img src="images/a805d184-b067-48e5-9ddb-a852ca2193e6_ExportBlock-4ad2e528-a586-4a79-84e2-91081722bc81/image_8.png" alt="image.png" width="650">
 </p>
 
 Array 可以直接計算位置。
@@ -902,7 +902,7 @@ O(n)
 ## 4. 為什麼 Linked List 插入概念上方便？
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image_9.png" alt="image.png" width="650">
+  <img src="images/a805d184-b067-48e5-9ddb-a852ca2193e6_ExportBlock-4ad2e528-a586-4a79-84e2-91081722bc81/image_9.png" alt="image.png" width="650">
 </p>
 
 如果已經找到要插入的位置，只要改 pointer。

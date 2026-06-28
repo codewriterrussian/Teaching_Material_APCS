@@ -21,7 +21,7 @@
 ## Section II. 今天的學習方式
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image.png" alt="image.png" width="650">
+  <img src="images/e6ab9b7e-2034-4aff-9e82-4a4c9b552e7a_ExportBlock-6f26c8c9-42f9-4461-b958-510e27a456e1/image.png" alt="image.png" width="650">
 </p>
 
 時間複雜度一開始看起來像數學，但其實可以先把它想成：
@@ -107,7 +107,7 @@ O(n)
 ## Section V. 單層迴圈
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image_1.png" alt="image.png" width="650">
+  <img src="images/e6ab9b7e-2034-4aff-9e82-4a4c9b552e7a_ExportBlock-6f26c8c9-42f9-4461-b958-510e27a456e1/image_1.png" alt="image.png" width="650">
 </p>
 
 ### 1. 固定次數
@@ -155,7 +155,7 @@ O(n)
 ## Section VI. 巢狀迴圈
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image_2.png" alt="image.png" width="650">
+  <img src="images/e6ab9b7e-2034-4aff-9e82-4a4c9b552e7a_ExportBlock-6f26c8c9-42f9-4461-b958-510e27a456e1/image_2.png" alt="image.png" width="650">
 </p>
 
 巢狀迴圈就是迴圈裡面還有迴圈。
@@ -193,7 +193,7 @@ O(n^2)
 ## Section VII. 常數可以省略
 
 <p align="center">
-  <img src="images/14e5f8e2-b1dc-45bc-986d-1c2b7faa047a_ExportBlock-707d35c0-8ef3-4cb0-afc6-522fe92149eb/image_3.png" alt="image.png" width="650">
+  <img src="images/e6ab9b7e-2034-4aff-9e82-4a4c9b552e7a_ExportBlock-6f26c8c9-42f9-4461-b958-510e27a456e1/image_3.png" alt="image.png" width="650">
 </p>
 
 請觀察下面的程式：

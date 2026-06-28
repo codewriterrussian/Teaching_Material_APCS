@@ -143,7 +143,9 @@ except ValueError:
 
 ### 2. `try` 和 `except` 的基本結構
 
-![ChatGPT Image May 29 2026 from Try Except.png](../assets/images/notion_exports/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/ChatGPT_Image_May_29_2026_from_Try_Except.png)
+<p align="center">
+  <img src="images/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/ChatGPT_Image_May_29_2026_from_Try_Except.png" alt="ChatGPT Image May 29 2026 from Try Except.png" width="650">
+</p>
 
 ```python
 try:
@@ -181,7 +183,9 @@ except：錯了怎麼辦
 
 ### 3. 基本範例：輸入整數後加 1
 
-![ChatGPT Image May 29 2026 from Try Except (1).png](../assets/images/notion_exports/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/ChatGPT_Image_May_29_2026_from_Try_Except_%281%29.png)
+<p align="center">
+  <img src="images/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/ChatGPT_Image_May_29_2026_from_Try_Except_(1).png" alt="ChatGPT Image May 29 2026 from Try Except (1).png" width="650">
+</p>
 
 ```python
 try:
@@ -261,7 +265,9 @@ int('hello')    # ValueError
 
 ### 5. 常見錯誤類別
 
-![ChatGPT Image May 29 2026 from Try Except (2).png](../assets/images/notion_exports/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/ChatGPT_Image_May_29_2026_from_Try_Except_%282%29.png)
+<p align="center">
+  <img src="images/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/ChatGPT_Image_May_29_2026_from_Try_Except_(2).png" alt="ChatGPT Image May 29 2026 from Try Except (2).png" width="650">
+</p>
 
 | 錯誤類別 | 說明 | 常見例子 |
 | --- | --- | --- |
@@ -285,7 +291,9 @@ int('hello')    # ValueError
 
 如果我們想針對不同錯誤做不同處理，可以寫多個 `except`。
 
-![ChatGPT Image May 29 2026 Try Except.png](../assets/images/notion_exports/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/ChatGPT_Image_May_29_2026_Try_Except.png)
+<p align="center">
+  <img src="images/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/ChatGPT_Image_May_29_2026_Try_Except.png" alt="ChatGPT Image May 29 2026 Try Except.png" width="650">
+</p>
 
 ```python
 try:
@@ -944,7 +952,9 @@ q10_safe_calculator('10', '2', '%')
 
 ## Section IX. 做題時可以使用的提示
 
-![image.png](../assets/images/notion_exports/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/image.png)
+<p align="center">
+  <img src="images/d3cd4efa-da03-430e-aaa3-3210af3ec15f_ExportBlock-48f3d6ab-be09-4088-b5b4-65996cbc4b4b/image.png" alt="image.png" width="650">
+</p>
 
 ### 解題口號：先抓危險，再寫補救
 
